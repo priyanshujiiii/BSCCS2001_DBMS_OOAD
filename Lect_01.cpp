@@ -30,3 +30,18 @@
 //>>>> constructions of power plant
 //>>Software engineering
 //>>>> Development of software
+
+
+// Software Development --> Software Construction
+// Structural analysis, modeling , Design and Implementation
+// Adherence to good practces
+
+// Object oriented analysis & design is a precursor to both:
+
+
+// Software complexity: understanding the challanges OOAD can addrss
+// Object model: Defining the primitives of the OD paradigm
+// Classes and objects: Bringing in the boader perspectives
+// Classes and objects : Identification approaches using OOAD
+// UNIFIED MODEILING LANGUAGE : UNDERSTANDING uml dIAGRAMS (3 WEEKS)
+// ooad cASE STUDIES : Applying OOAD in different contacts
