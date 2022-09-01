@@ -25,3 +25,8 @@
 //>> Civil Engineering
 //>>>> Construction od buildings
 //>> Mechinical Engineering
+//>>>> construction of automobiles
+//>>Electrical Engineering
+//>>>> constructions of power plant
+//>>Software engineering
+//>>>> Development of software
